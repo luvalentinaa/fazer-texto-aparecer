@@ -1,4 +1,4 @@
-# Fazer o texto aparece  [<img src="img/gif.age.gif">]
+# Fazer o texto aparece  [<img src="gif_age.gif">]
 
 ## Usando somente HTML , CSS
 ### Uma aplicação utilizando  pseudo classes para fazer um texto aparecer.
