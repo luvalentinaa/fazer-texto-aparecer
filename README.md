@@ -9,7 +9,6 @@
 - HTML
 - CSS
 
-[<img src="img/html.svg">]
-[<img src="img/css.svg">]
-[<img src="img/javascript.svg">]
+<img src="img/html.svg">
+<img src="img/css.svg">
 
