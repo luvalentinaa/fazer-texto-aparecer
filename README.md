@@ -1,10 +1,13 @@
-# Fazer o texto aparece 📃
-[<img src="gif_age.gif">]
+# Fazer o texto aparecer
 
-## Usando somente HTML , CSS
-### Uma aplicação utilizando  pseudo classes para fazer um texto aparecer.
+<img src="gif_age.gif">
 
-### Linguagens utilizadas 
+
+### Uma aplicação para fazer texto aparecer,  utilizando pseudo classes .
+
+## Linguagens utilisadas
+- HTML
+- CSS
 
 [<img src="img/html.svg">]
 [<img src="img/css.svg">]
